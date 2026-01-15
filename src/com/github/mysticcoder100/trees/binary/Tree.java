@@ -1,4 +1,4 @@
-package com.github.mysticcoder100.binarytree;
+package com.github.mysticcoder100.trees.binary;
 
 public class Tree {
     private Node root;
